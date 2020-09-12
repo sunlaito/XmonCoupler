@@ -1,2 +1,2 @@
 # XmonCoupler
-Codes for the tunable Xmon coupler
+Codes for deriving the eigenstates and eigenenergies of the tunable Xmon coupler
